@@ -23,3 +23,12 @@
 • Designed a structured Excel-based dataset to store and organize the categorized gaze data, enabling further behavioral and statistical analysis.
 
 • The work provided insights into visual attention distribution among pedestrians in real-world urban scenarios, supporting future research in traffic safety and human behavior modeling.# -Pedestrian-Gaze-Data-Extraction-Across-Road-Types-and-Time-Constraints
+
+![extraction od frames using pupil labs](https://github.com/user-attachments/assets/9cdfa3d3-d697-40d0-a6c6-402c8d26d219)
+
+![extraction of data using matlab-1](https://github.com/user-attachments/assets/0f3bdea3-edc8-4235-a1d2-83750a0f3768)
+
+![extraction of data using matlab-2](https://github.com/user-attachments/assets/f5e028a9-eef7-4dfa-b5e6-943de59bc721)
+
+
+
